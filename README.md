@@ -1,9 +1,9 @@
 <tt><b>Botnets</b><br></tt>
 
-<tt><br>router telnet-malware files, structured in directories, with output of some common analysis tools (file, ldd, hexdump).<br><br> 
-<br>Catched mostly on area of Czech Republic.<br> Part of my 2013/2014 school project. All documentation for these files, together with description of programs and techniques used to capture them and presentation slides, can be found on:</tt>
+<br>router telnet-malware files, structured in directories, with output of some common analysis tools (file, ldd, hexdump).<br><br> 
+<br>Catched mostly on area of Czech Republic.<br> Part of my 2013/2014 school project. All documentation for these files, together with description of programs and techniques used to capture them and presentation slides, can be found on:
 <br>
-<tt>https://vyuka.gyarab.cz/files/1/rocnikove_projekty/peterka/ </tt>
+<tt>https://vyuka.gyarab.cz/files/1/rocnikove_projekty/peterka/
 <br>
-<tt>CC BY-NS-SA (malware files are under public domain i suppose)
-</tt>
+CC BY-NS-SA (malware files are under public domain i suppose)
+
